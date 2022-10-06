@@ -1,3 +1,4 @@
+
 <h1 align="center"> Hi!👋# Taller01-Snake <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>  
  </h1> 
 <h1 align="center">/////////////////////////////////////////////////////////////</h1> 
@@ -17,3 +18,6 @@
 
 
 ## Integrante 3
+![img 1](https://user-images.githubusercontent.com/115115438/194204362-b8b1a180-82bf-44de-8f33-5f0374e05618.png)
+![img 2](https://user-images.githubusercontent.com/115115438/194204378-12e34b4c-22d5-4eca-86c9-50fedeefbc0f.png)
+![img 3](https://user-images.githubusercontent.com/115115438/194204393-1e60b14c-b421-4e51-82a3-0c9ea211f7a7.png)
