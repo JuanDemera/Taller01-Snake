@@ -11,4 +11,8 @@ insertar imagen
 ![commits integrante 1](https://user-images.githubusercontent.com/105894228/194200423-9d538098-e4ac-41ba-9feb-f719a483d8b9.jpg)
 
 ## Integrante 2
+![foto 2](https://user-images.githubusercontent.com/67281150/194203797-609e8c80-2fca-4d38-af15-b15ccfef639c.png)
+![foto 3](https://user-images.githubusercontent.com/67281150/194203801-a4ef83d8-6969-4dbc-841a-3d91d481614d.png)
+
+
 ## Integrante 3
