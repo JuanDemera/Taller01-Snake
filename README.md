@@ -3,7 +3,8 @@
 <h1 align="center">/////////////////////////////////////////////////////////////</h1> 
 
 ## Lider
-insertar imagen
+![taller01](https://user-images.githubusercontent.com/57873984/194204217-1b20e59f-bdbe-4a24-b570-bd0ff5483def.png)
+
 
 ## Integrante 1
 ![conflicto integrante 1](https://user-images.githubusercontent.com/105894228/194200302-771b7ca0-8809-4ce5-ae3e-389fc2bcde3a.jpg)
